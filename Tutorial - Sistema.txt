@@ -1,0 +1,29 @@
+1 - Abrir o "Xampp - Control" na área de trabalho;
+2 - Selecionar "Start" nas abas "Apache" e "MySQL";
+3 - Fechar o programa e abrir o "localhost" no navegador.
+
+Se precisar executar o xampp como administrador, a senha é landmec
+
+Sobre tagueamento:
+RGEMMNT001
+RG - rio grande
+EM - engenharia mecânica
+MNT - laboratorio de manutenção do pav 13
+01 - número sequencial
+
+Nome: Administrador
+CPF: 123456789
+
+=====================================================================
+
+Para outros desenvolvedores:
+1.0 - Instalar o Xampp - https://www.apachefriends.org/pt_br/index.html;
+1.1 - Deletar o arquivo "index.php" localizado em ../xampp/htdocs;
+1.2 - Transferir o arquivo "../Sistema Planos de Manutenção" para a pasta "../xampp/htdocs";
+
+2.0 - Abrir o "Xampp - Control";
+2.1 - Selecionar "Admin" na aba "MySQL";
+2.2 - No canto esquerdo, selecionar "Novo";
+2.3 - Criar database com o nome "estagio";
+2.4 - Na aba superior, selecionar "Importar";
+2.5 - Selecionar arquivo "../Sistema Planos de Manutenção/estagio.sql";
